@@ -1,11 +1,25 @@
-.nav-lip{
-    color: rgb(0, 0, 0,0.5);
-    font-size: 18px;
-}
 footer{
     text-align: center;
     color: #ffffff;
     background-color:black;
     padding: 20px;
     margin: 0;
+}
+
+.main-img{
+  width: 300px;
+  margin-bottom: 1em;
+}
+
+.nav-lip{
+    color: rgb(0, 0, 0,0.5);
+    font-size: 18px;
+}
+
+.nav{
+  margin-bottom: 1em;
+}
+
+.read-more{
+  margin-top: 1em;
 }
